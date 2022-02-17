@@ -1,6 +1,9 @@
 body{
     background-color: burlywood;
 }
-h1{
-    color: cornflowerblue;
+h1 {
+    color: purple;
+}
+#heading2{
+    color: red;
 }
