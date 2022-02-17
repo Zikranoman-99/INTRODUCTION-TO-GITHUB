@@ -1,9 +1,14 @@
 body{
-    background-color: burlywood;
-}
-h1 {
-    color: purple;
+    background-color: rgb(156, 95, 14);
+    color: darkgreen;
 }
 #heading2{
     color: red;
+    text-decoration-style: wavy;
+}
+h1 {
+    color: purple;
+    text-decoration-style: dotted;
+    text-decoration: underline;
+    font-weight: bolder;
 }
